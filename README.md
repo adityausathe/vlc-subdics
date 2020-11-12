@@ -1,4 +1,5 @@
-# :warning: Historical Project
+### :x: Not Working
+### :warning: Historical Project
 Due to changes in VLC API, this plugin no longer works.
 
 # Information
