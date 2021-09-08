@@ -1,8 +1,9 @@
+# VLC SubDics
+
 ### :x: Not Working
 ### :warning: Historical Project
 Due to changes in VLC API, this plugin no longer works.
 
-# Information
 ## Functionality
 - The intention behind this idea is to help non-native English speakers lookup meanings of difficult words in the movie. This uses subtitle information to do so.
 - When user pauses a video, the plugin filters out trivial words from the current subtitle-line and displays the meanings of remaining non-trivial words.
